@@ -5,4 +5,4 @@ This is the repo for PM566 projects
 
 - source code: [midterm.Rmd](./midterm.Rmd)
 - markdown report: [midterm.md](./midterm.md)
-- html report: [midterm.html](https://raw.githack.com/lysethan/PM566-project/master/midterm.html)
+- html report: [midterm.html](https://raw.githack.com/lysethan/PM566-project/main/midterm.html)
